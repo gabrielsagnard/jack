@@ -1,7 +1,9 @@
-# Jack
-A project that demonstrates how to run multiple apps on one server using Docker and Traefik.
+# Traefik
+
+Un projet qui montre comment exécuter plusieurs applications sur un serveur en utilisant Docker et Traefik.
 
 ## Dev setup
+
 - Clone/download this repo
 - Install Docker and Docker Compose
 - Run `docker-compose up` in project root
